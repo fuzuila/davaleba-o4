@@ -100,7 +100,7 @@ ul{
 .video-title{
     text-align: center;
     margin-left: 200px;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 18px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-se
 }
@@ -137,7 +137,7 @@ ul{
 .work-box1{
    
     margin-left: 180px;
-    margin-top: 200px;
+    margin-top: 250px;
 
 }
 .title1{
@@ -155,27 +155,24 @@ ul{
 .card-foto{
     width: 386px;
     height: 532px;
-    background-color: blanchedalmond;
     background-image: url(fotos/Image\ \(4\).jpg);
 }
 .card-foto1{
     width: 386px;
     height: 532px;
     margin-left: 31px;
-    background-color: blanchedalmond;
     background-image: url(fotos/Image\ \(5\).jpg);
 }
 .card-foto2{
     width: 386px;
     height: 532px;
     margin-left: 31px;
-    background-color: blanchedalmond;
     background-image: url(fotos/Image\ \(6\).jpg);
 }
 .cont-name{
     width: 341px;
     height: 114px;
-    background-color: wheat;
+    background-color: white;
     margin-left: 20px;
     margin-top: 350px;
 }
@@ -195,4 +192,3 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     top: 30%;
     color: rgba(125, 125, 125, 1);
 }
-/*-- aq mindoda damefuSa githubsi magram ragac ver wavida kargad--*/
