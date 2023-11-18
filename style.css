@@ -1,0 +1,198 @@
+.banner{
+    width: 1580px;
+    height: 2301px;
+   
+}
+.menu{
+    display: flex;
+    margin-left: 180px;
+    margin-top: 50px;
+   
+}
+.icon{
+    margin: 10px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+.logo{
+    width: 42.17px;
+    height: 29px;
+}
+.logo1{
+    margin-top: 5px;
+}
+.conteiner-navi{
+    margin-left: 240px;
+    font-size: 18px;
+}
+.conteiner-navi-navi{
+    width: 184px;
+    height: 65px;
+    background: rgb(97, 120, 235);
+    color: white;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.navigacia{
+    margin: 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.navigacia1{
+    text-align: center;
+    margin-top: 20px;
+}
+/*--section--*/
+.work-box{
+    margin-left: 180px;
+    margin-top: 150px;
+}
+.work-title{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.h1{
+    font-size: 40px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-top: 20px;
+}
+.title{
+    margin-right: 160px;
+}
+.box-card{
+    margin-top: 41px;
+    display: flex;
+}
+.card{
+    width: 386px;
+    height: 383px;
+    background: rgba(244, 244, 244, 1);
+}
+.card1{
+    width: 386px;
+    height: 383px;
+    background: rgba(244, 244, 244, 1);
+    margin-left: 31px;
+}
+.icon1{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+/*--video--*/
+.cont-video{
+    width: 1580px;
+    height: 557px;
+    background-image: url(fotos/Image\ \(3\).jpg);
+    margin-top: 50px;
+}
+.short-video{
+    width: 511px;
+    height: 270.5px;
+    position: relative;
+    top: 20%;
+    margin-left: 530px;
+}
+.video-title{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-se
+}
+.h1{
+    text-align: center;
+    color: rgba(55, 57, 63, 1);
+    top: 30%;
+}
+.h2{
+    font-size: 18px;
+    color: rgba(55, 57, 63, 1);
+    text-align: center;
+    margin-top: 60px;
+}
+.h2-card{
+    font-size: 18px;
+    color: rgba(55, 57, 63, 1);
+    text-align: center;
+    margin-top: 60px;
+    color: rgba(125, 125, 125, 1);
+
+}
+.h3{
+    font-size: 18px;
+    text-align: center;
+    color: rgba(107, 119, 229, 1);
+    margin-top: 60px;
+
+}
+.icon2{
+    margin-top: 105px;
+}
+/*--section1--*//*--image-*/
+.work-box1{
+   
+    margin-left: 180px;
+    margin-top: 200px;
+
+}
+.title1{
+    width: 348px;
+    height: 86px;
+   margin-right: 170px;
+}
+.box-img1{
+    width: 1220px;
+    height: 532px;
+  
+    margin-top: 41px;
+    display: flex;
+}
+.card-foto{
+    width: 386px;
+    height: 532px;
+    background-color: blanchedalmond;
+    background-image: url(fotos/Image\ \(4\).jpg);
+}
+.card-foto1{
+    width: 386px;
+    height: 532px;
+    margin-left: 31px;
+    background-color: blanchedalmond;
+    background-image: url(fotos/Image\ \(5\).jpg);
+}
+.card-foto2{
+    width: 386px;
+    height: 532px;
+    margin-left: 31px;
+    background-color: blanchedalmond;
+    background-image: url(fotos/Image\ \(6\).jpg);
+}
+.cont-name{
+    width: 341px;
+    height: 114px;
+    background-color: wheat;
+    margin-left: 20px;
+    margin-top: 350px;
+}
+.cont-name1{
+    position: relative;
+    top: 20%;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.job{
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    top: 30%;
+    color: rgba(125, 125, 125, 1);
+
+}
